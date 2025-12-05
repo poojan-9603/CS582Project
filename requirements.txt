@@ -1,0 +1,10 @@
+numpy
+pandas
+scikit-learn
+tqdm
+
+sentence-transformers
+rank-bm25
+
+streamlit
+matplotlib
